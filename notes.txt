@@ -1,0 +1,4 @@
+node version should be 16
+npm install --global yarn
+yarn install
+yarn storybook
